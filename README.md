@@ -1,6 +1,3 @@
-### i have
+### i'm not a programmer
 
-
-**heggyscal/heggyscal** is a ✨ _s_
-
-what's up
+i'm not
